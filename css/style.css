@@ -1,6 +1,7 @@
 canvas 
 {
-    background: #eee;
+    background-image: url("../models/canvas background.jpg");
+    background-size: cover;
     display: block;
     margin: 0 auto;
 }
