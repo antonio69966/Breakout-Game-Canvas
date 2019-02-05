@@ -1,0 +1,14 @@
+canvas 
+{
+    background: #eee;
+    display: block;
+    margin: 0 auto;
+}
+
+html
+{
+    background-image: url("../models/background.jpg");
+    background-size: auto;
+    background-position: auto;
+    background-clip: padding-box;
+}
